@@ -3,15 +3,15 @@ layout: post
 title: Dunk Cup Update | \#1
 description: Nuovo Sistema di Taglie e Altre Novità!
 summary: Nuovo Sistema di Taglie e Altre Novità!
-tags: [dunk]
+tags: [DUNKCUP]
 ---
 
-**Ciao a tutti!**
+**Ciao a tutti!**<br>
 Siamo entusiasti di condividere con voi le ultime novità del nostro server. Ecco le nuove funzionalità che abbiamo implementato oggi:
 
 **Sistema di Taglie:**
 
-Gli staffer possono ora mettere una taglia sulla testa dei giocatori
+- Gli staffer possono ora mettere una taglia sulla testa dei giocatori
 - La durata della taglia è completamente personalizzabile
 - I giocatori con una taglia vengono segnalati sulla mappa e sono visibili a tutti
 - Uccidere un giocatore con taglia garantisce punti extra
