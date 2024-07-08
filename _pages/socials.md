@@ -1,6 +1,6 @@
 ---
 layout: page
-title: socials
+title: Socials
 ---
 
 **Find here every social media!**
