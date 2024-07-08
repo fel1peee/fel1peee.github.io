@@ -59,3 +59,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "socials"
+    values:
+      layout: "socials"    
