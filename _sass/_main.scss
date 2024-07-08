@@ -1,6 +1,6 @@
 *,:after,:before {
 	box-sizing:border-box;
-	background-color:inherit;
+	background: linear-gradient(120deg, white 60%, rgba(255, 0, 0, 0.7));
 	color:inherit;
 	margin:0;
 	padding:0;
@@ -47,7 +47,7 @@ pre {
 }
 
 code,pre {
-	background: linear-gradient(120deg, white 60%, rgba(255, 0, 0, 0.7));
+	background: rgb(236, 237, 238);
 }
 
 code {
