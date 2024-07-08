@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dunk Cup Update | &#35;1
+title: Dunk Cup Update | 01
 description: Nuovo Sistema di Taglie e Altre Novità!
 summary: Nuovo Sistema di Taglie e Altre Novità!
 tags: [DUNKCUP]
