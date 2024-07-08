@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
+site: Fel1pee
+url: https://fel1peee.github.io/
+title: Fel1pee
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
-  username: #yourusername
+  username: Fel1pee
   card: summary
-  creator: #yourusername
+  creator: Fel1pee
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: Fel1pee
+  name: Fel1pee
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: Fel1pee
+  url: https://fel1peee.github.io/
 permalink: pretty
 
 baseurl: ""
