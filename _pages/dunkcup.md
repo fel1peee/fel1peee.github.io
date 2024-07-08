@@ -6,7 +6,6 @@ title: About Dunk Cup
 **Un nuovo server Championship che rivoluzionerà lo scenario di Fivem.**<br>
 
 ### Come funziona il server
-Ci sono dai 16 ai 32 team
 
 ### Perché l'abbiamo fatto?
 La scelta di realizzare questo server è stata mia (@fe1jao) e di Jack (@giacculu).<br>
