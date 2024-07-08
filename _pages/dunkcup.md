@@ -1,28 +1,18 @@
 ---
 layout: page
-title: About
+title: About Dunk Cup
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Un nuovo server Championship che rivoluzionerà lo scenario di Fivem.
+La scelta di realizzare questo server è stata mia (@fe1jao) e di Jack (@giacculu).
+Dunk Cup è un server che stiamo curando e continueremo a curare con grande attenzione, visto che in italia non pensiamo ci sia mai stato un qualcosa del genere.
+L'obiettivo è di portare il server in alto. Il guadagno è secondario.
 
 ### Features
+- Hud innovativo
+- Server completamente ottimizzato
+- Sistema di team curato al dettaglio
+- Sistema di revive
+- Taglie sulla testa casuali
+- Molte altre novità
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
