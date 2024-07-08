@@ -16,3 +16,5 @@ L'obiettivo è di portare il server in alto. Il guadagno è secondario.
 - Taglie sulla testa casuali
 - Molte altre novità
 
+![Screenshot](image.png)
+
