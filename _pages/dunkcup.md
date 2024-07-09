@@ -21,8 +21,6 @@ title: About Dunk Cup
 
 - *Sistema di Punteggio:* Il punteggio è determinato dalle uccisioni fatte e dal placement della squadra (cioè quanto a lungo riescono a sopravvivere).
 
-- *Vittoria:* Il team con il punteggio più alto alla fine della partita vince.
-
 ### Perché l'abbiamo fatto?
 La scelta di realizzare questo server è stata mia (@fe1jao) e di Jack (@giacculu).<br>
 Dunk Cup è un server che stiamo curando e continueremo a curare con grande attenzione, visto che in italia non pensiamo ci sia mai stato un qualcosa del genere.<br>
