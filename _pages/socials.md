@@ -3,9 +3,7 @@ layout: page
 title: Socials
 ---
 
-**Find here every social media!**
-
-### Features
+## **Find here every social media!**
 
 - [Twitter](https://x.com/Fel1pe244)<br>
 - [Ez.bio](https://x.com/Fel1pe244)<br>
