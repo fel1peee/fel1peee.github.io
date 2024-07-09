@@ -21,7 +21,7 @@ In the past, i've used some of these custom iso, and the best one for me are:
 
 **SOME ADVICE**
 - A windows custom ISO is for the people that know how to move into it properly, and is not recommended to make other tweaks beyond those already offered by the operating system (except those in this channel, those are basic tweaks that if absent on your PC you can perform without problems)
-- Those ISO will certainly have some processes blocked, and that can be a problem for those who play fivem with an anticheat staff (imagine let someone that you don't know check up you're computer in 2024:947496865061023765: )
+- Those ISO will certainly have some processes blocked, and that can be a problem for those who play fivem with an anticheat staff
 - Functional brain needed
 - Document first about the removed things on those windows!
 - Also document first on how to install properly a custom ISO
