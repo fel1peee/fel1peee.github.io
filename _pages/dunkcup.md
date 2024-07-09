@@ -9,7 +9,7 @@ title: About Dunk Cup
 
 - Modalità di Gioco: Si tratta di un survival multiplayer con un massimo di 32 squadre partecipanti.
 
-- *Composizione delle Squadre:* Ogni squadra è composta da 4 giocatori.
+- *Composizione delle Squadre:* Ogni squadra è composta da 5 giocatori.
 
 - *Loadout e Veicoli:* All'inizio del gioco, ogni squadra può acquistare un loadout personalizzato e veicoli per facilitare gli spostamenti sulla mappa.
 
