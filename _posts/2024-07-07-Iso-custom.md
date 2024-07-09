@@ -28,7 +28,6 @@ In the past, i've used some of these custom iso, and the best one for me are:
 
 
 Link:<br>
-[ReviOS 11 23h2](https://drive.massgrave.dev/en-us_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)<br>
 [AtlasOS 1803](https://mega.nz/file/1BgBwI7L#AD3qecWDdiXMxSDAoFKPVyrctYOGrsUexyOMFm-WRuM)<br>
 [AtlasOS 20h2](https://mega.nz/file/AcRRQZTT#k-pu29CvQpn5v7gGrDTdqVdL-NhH_u3z5OE84v-EEFM)<br>
 
