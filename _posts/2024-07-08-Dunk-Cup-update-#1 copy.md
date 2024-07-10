@@ -32,3 +32,5 @@ Siamo entusiasti di condividere con voi le ultime novità del nostro server. Ecc
 
 **Queste nuove funzionalità renderanno il gameplay ancora più coinvolgente e strategico.**
 
+[Discord Dunk Cup](https://discord.gg/FGTeQEkXM4)
+
