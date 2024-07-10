@@ -22,7 +22,7 @@ Abbiamo fatto grandi progressi nello sviluppo di Dunk Cup! Ecco le ultime novit√
 
 **Login automatico:**
 
-    - Ora i giocatori accedono direttamente al proprio team, evitando errori di selezione tramite id discord
+- Ora i giocatori accedono direttamente al proprio team, evitando errori di selezione tramite id discord
 
 **Meccanica di scansione nemici:**
 
